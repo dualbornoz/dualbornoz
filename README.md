@@ -17,7 +17,7 @@ Estou sempre buscando por novos conhecimentos, principalmente no ramo da tecnolo
 
 <div align="center">
   <a href="https://github.com/dualbornoz">
-  <img height="200"  src="https://github-readme-stats.vercel.app/api?username=dualbornoz&show_icons=true&theme=F7C9D6&bg_color=00000000&text_color=D67304&hide=stars&rank_icon=percentile"/>
-  <img height="200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dualbornoz&layout=compact&langs_count=8&theme=F7C9D6&bg_color=00000000&text_color=D67304&card_width=220"/>
+  <img height="160em"  src="https://github-readme-stats.vercel.app/api?username=dualbornoz&show_icons=true&theme=F7C9D6&bg_color=00000000&text_color=D67304&hide=stars&include_all_commits=true&count_private=true"/>
+  <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dualbornoz&layout=compact&langs_count=8&theme=F7C9D6&bg_color=00000000&text_color=D67304&card_width=220"/>
 </div>
 
