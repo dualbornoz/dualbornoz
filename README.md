@@ -6,11 +6,19 @@
 
 <br>
 
-## Sobre mim
+### 👨🏻‍💻 &nbsp;Sobre mim
+🎓&nbsp;Sou estudante do curso de Análise e Desenvolvimento de Sistemas no IFPI.\
+💻 &nbsp;Estou sempre buscando por novos conhecimentos, principalmente no ramo da tecnologia.\
+✍️ &nbsp;Meu GitHub é um espaço de registro da evolução dos meus aprendizados, portanto sempre estarei atualizando os repositórios com novos desafios.
 
-Estou sempre buscando por novos conhecimentos, principalmente no ramo da tecnologia. Meu GitHub é um espaço de registro da evolução dos meus aprendizados, portanto sempre estarei atualizando os repositórios com novos desafios!
 
-<br>
+### 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 
 
 ### GitHub Stats
@@ -21,5 +29,9 @@ Estou sempre buscando por novos conhecimentos, principalmente no ramo da tecnolo
   <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dualbornoz&layout=compact&langs_count=8&theme=F7C9D6&bg_color=00000000&text_color=D67304&card_width=220"/>
 </div>
 
-![Snake animation](https://github.com/dualbornoz/dualbornoz/blob/output/github-contribution-grid-snake.svg)
+## 📫 &nbsp; How to reach me:
+
+
+<a href="mailto:gabrielalbornoz.dev@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+
 
