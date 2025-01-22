@@ -2,7 +2,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D67304&size=30&center=true&vCenter=true&width=1000&lines=Olá!+Sou+a+Gabriela+Albornoz.;Estou+sempre+em+busca+de+aprimorar+meus+conhecimentos!)](https://git.io/typin)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D67304&size=30&center=true&vCenter=true&width=1000&lines=Olá!+Me+chamo+Gabriela+Albornoz.;Estou+sempre+em+busca+de+aprimorar+meus+conhecimentos!)](https://git.io/typin)
 
 <br>
 
@@ -20,4 +20,6 @@ Estou sempre buscando por novos conhecimentos, principalmente no ramo da tecnolo
   <img height="160em"  src="https://github-readme-stats.vercel.app/api?username=dualbornoz&show_icons=true&theme=F7C9D6&bg_color=00000000&text_color=D67304&hide=stars&include_all_commits=true&count_private=true"/>
   <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dualbornoz&layout=compact&langs_count=8&theme=F7C9D6&bg_color=00000000&text_color=D67304&card_width=220"/>
 </div>
+
+![Snake animation](https://github.com/dualbornoz/dualbornoz/blob/output/github-contribution-grid-snake.svg)
 
